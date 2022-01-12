@@ -1,4 +1,4 @@
-## NFT Blockchain Analytics
+# NFT Blockchain Analytics
 Extracted live CyrptoPunks NFT data on the Ethereum Blockchain using SQL in Google Colab to gather insights from NFT transactions
 
 ## Query 1:
