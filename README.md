@@ -1,2 +1,2 @@
 ## NFT Blockchain Analytics
-Extracted NFT data on the Ethereum Blockchain using MySQL to gather insights from NFT transactions
+Extracted live CyrptoPunks NFT data on the Ethereum Blockchain using SQL to gather insights from NFT transactions
